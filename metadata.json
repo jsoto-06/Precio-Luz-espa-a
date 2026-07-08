@@ -1,0 +1,8 @@
+{
+  "name": "Precio de la Luz PVPC",
+  "description": "Aplicación para consultar el precio de la luz por horas en España (Tarifa PVPC) en tiempo real, con gráficos interactivos y resúmenes de precios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
